@@ -1,0 +1,5 @@
+numpy==1.24.2
+Pillow==9.4.0
+RPi.GPIO==0.7.1
+spidev==3.6
+ST7789==0.0.4
